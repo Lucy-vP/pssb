@@ -1,2 +1,4 @@
-# pssb
-PowerShell Swearbook
+# The PowerShell Swearbook 
+`try { } catch {} curse {}`
+
+![Cover](cover.png) 
