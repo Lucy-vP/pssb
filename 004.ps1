@@ -18,7 +18,7 @@ Enable-WindowsOptionalFeature -FeatureName 'Containers-DisposableClientVM' -NoRe
 Get-WindowsOptionalFeature -Online -FeatureName * | Out-GridView -PassThru | Enable-WindowsOptionalFeature -Online -NoRestart 
 
 <#
-    WtF/Explaination
+    WtF/Explanation
 
     The *-WindowsOptionalFeature cmdlets are nothing else than (poorly written) wrappers for dism.exe: 
     dism.exe /Online /Enable-Feature /FeatureName:'Containers-DisposableClientVM'
