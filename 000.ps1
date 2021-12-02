@@ -1,7 +1,7 @@
 #####################################################################
 ## Receipe 000
 ## Our role model Lee Holmes has dedicated this fun function to us:
-## https://twitter.com/Lee_Holmes/status/1428510273309057026/photo/1
+## https://twitter.com/Lee_Holmes/status/1428510273309057026
 ## Have a look at his marvellous cookbook:
 ## 💙 https://www.powershellcookbook.com 💙
 #####################################################################
